@@ -1,0 +1,10 @@
+# Per-user settings incl. API keys (created by the setup wizard)
+config.json
+.env
+
+# Python
+.venv/
+__pycache__/
+
+# Debug recordings
+*.wav

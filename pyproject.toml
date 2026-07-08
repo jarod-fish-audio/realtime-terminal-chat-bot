@@ -1,0 +1,13 @@
+[project]
+name = "agent-with-fish-api"
+version = "0.1.0"
+description = "Realtime terminal voice agent: Fish Audio ASR/TTS + OpenAI streaming"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx",
+    "msgpack",
+    "numpy",
+    "openai",
+    "sounddevice",
+    "websockets>=14",
+]
