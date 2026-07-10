@@ -14,6 +14,8 @@ socket as they're generated, so speech starts playing before the reply is finish
 Dependencies are managed with [uv](https://docs.astral.sh/uv/) (see `pyproject.toml`):
 
 ```
+git clone https://github.com/jarod-fish-audio/realtime-terminal-chat-bot.git
+cd realtime-terminal-chat-bot
 uv sync
 uv run voice_agent.py
 ```
