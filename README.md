@@ -1,5 +1,9 @@
 # Terminal Voice Agent (Fish Audio + OpenAI)
 
+<div align="center">
+  <video src="assets/demo.mp4" autoplay loop muted playsinline controls width="800"></video>
+</div>
+
 Talk to an LLM in realtime from your terminal:
 
 ```
